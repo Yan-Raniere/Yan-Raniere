@@ -4,9 +4,11 @@ index 691aa9b..8f7312b 100644
 +++ b/README.md
 @@ -1,10 +1,26 @@
   -->
+ <hr />
+ 
  ### Hi there, thi is Yan Marinho 👋
  
-<hr/>
+<hr />
 
 <div>
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yan-Raniere&show_icons=true&include_all_commits=true&count_private=true" />
@@ -14,6 +16,8 @@ index 691aa9b..8f7312b 100644
 </div>
  
 <br />
+
+<hr />
  
  - 🔭 I’m currently working on youtube
  - 🌱 I’m currently learning html/css/js/sql/node/react/wordpress/php
@@ -22,6 +26,7 @@ index 691aa9b..8f7312b 100644
  - 😄 Check out my channel on this link: https://www.youtube.com/channel/UCtHGS8oVNsAaE9StI_WGTzQ
 
 <br />
+<hr />
 
 <div>
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
