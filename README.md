@@ -37,3 +37,4 @@ index 691aa9b..8f7312b 100644
  <img align="center" alt="WP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
  <img align="center" alt="MYSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
+<hr />
