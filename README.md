@@ -3,8 +3,9 @@ index 691aa9b..8f7312b 100644
 --- a/README.md
 +++ b/README.md
 @@ -1,10 +1,26 @@
- ### Hi there 👋
   -->
+ ### Hi there 👋
+
 <div>
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yan-Raniere&show_icons=true&include_all_commits=true&count_private=true" />
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-Raniere&layout=compact&langs_count=7" />
