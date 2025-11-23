@@ -19,11 +19,11 @@ index 691aa9b..8f7312b 100644
 
 <hr />
  
- - 🔭 I’m currently working on youtube
+ - 🔭 I’m currently working on Café EAD
  - 🌱 I’m currently learning html/css/js/sql/node/react/wordpress/php
  - 💬 Ask me about front end development
  - 📫 How to reach me: yan.dev.marinnho@gmail.com
- - 😄 Check out my channel on this link: https://www.youtube.com/channel/UCtHGS8oVNsAaE9StI_WGTzQ
+ - 😄 Check out my Linked'in on this link: https://www.linkedin.com/in/yan-raniere
 
 <br />
 <hr />
